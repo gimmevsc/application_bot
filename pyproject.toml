@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "bot"
+version = "0.1.0"
+description = ""
+authors = ["Test Task <test@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiogram = "^3.13.1"
+bs4 = "^0.0.2"
+phonenumbers = "^8.13.48"
+tldextract = "^5.1.2"
+python-dotenv = "^1.0.1"
+random-user-agent = "^1.0.1"
+fastapi = "^0.115.5"
+uvicorn = "^0.32.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
