@@ -1,4 +1,4 @@
-# Telegram Bot
+# Application Telegram Bot
 
 This project is a Telegram bot that allows users to submit application data, which is then sent to multiple sites via APIs. The bot parses user input and sends the data to predefined sites, providing the user with feedback on the submission status.
 
